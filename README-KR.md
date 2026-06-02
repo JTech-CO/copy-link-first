@@ -60,4 +60,4 @@ copy-link-first/
 ## 5. 정보 (Info)
 
 - **License**: MIT
-- **Privacy Policy**: [privacy-policy.html](privacy-policy.html)
+- **Privacy Policy**: [privacy-policy.html](<https://jtech-co.github.io/copy-link-first/privacy-policy.html>)
