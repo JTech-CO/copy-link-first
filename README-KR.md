@@ -4,6 +4,8 @@
 
 > **X(트위터) 공유 메뉴에서 '링크 복사하기'를 'Chat으로 전송하기' 위로 되돌리는 크롬 확장 프로그램**
 
+<img src="https://raw.githubusercontent.com/JTech-CO/copy-link-first/refs/heads/main/images/pt%205.png" width="100%">
+
 ## 1. 소개 (Introduction)
 
 이 프로젝트는 X(트위터) 업데이트로 뒤바뀐 **공유 메뉴 항목 순서**를 되돌리기 위해 개발된 크롬 확장 프로그램입니다.
