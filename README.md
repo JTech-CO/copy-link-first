@@ -1,6 +1,6 @@
 # Copy Link First
 
-**English** | [한국어](#)
+**English** | [한국어](<https://github.com/JTech-CO/copy-link-first/blob/main/README-KR.md>)
 
 > **A Chrome extension that moves "Copy link" back above "Send via Chat" in the X (Twitter) share menu.**
 
