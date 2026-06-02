@@ -4,6 +4,8 @@
 
 > **A Chrome extension that moves "Copy link" back above "Send via Chat" in the X (Twitter) share menu.**
 
+<img src="https://raw.githubusercontent.com/JTech-CO/copy-link-first/refs/heads/main/images/pt%205.png" width="100%">
+
 ## 1. Introduction
 
 This project is a Chrome extension built to restore the **share menu order** that an X (Twitter) update swapped around.
