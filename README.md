@@ -12,7 +12,7 @@ This project is a Chrome extension built to restore the **share menu order** tha
 When you tap the share button at the bottom-right of a post (⬆️), it puts "Copy link" back on top — preventing accidental taps on "Send via Chat" and bringing back the familiar experience users are used to.
 
 **Features**
-- **Menu order restore**: Automatically places "Copy link" (링크 복사하기) above "Send via Chat" (Chat으로 전송하기) in the share menu
+- **Menu order restore**: Automatically places "Copy link" above "Send via Chat" in the share menu
 - **Behavior preserved**: Moves the actual DOM node instead of using CSS, so each button's action is never mixed up when clicked
 - **Multilingual detection**: Recognizes both Korean and English menus, covering overseas users
 
