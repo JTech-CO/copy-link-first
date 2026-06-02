@@ -60,3 +60,4 @@ copy-link-first/
 ## 5. 정보 (Info)
 
 - **License**: MIT
+- **Privacy Policy**: [privacy-policy.html](privacy-policy.html)
