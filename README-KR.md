@@ -1,6 +1,6 @@
 # Copy Link First
 
-[English](#) | **한국어**
+[English](<https://github.com/JTech-CO/copy-link-first/blob/main/README.md>) | **한국어**
 
 > **X(트위터) 공유 메뉴에서 '링크 복사하기'를 'Chat으로 전송하기' 위로 되돌리는 크롬 확장 프로그램**
 
