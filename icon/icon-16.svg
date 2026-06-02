@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 128 128" role="img" aria-label="Copy link">
+  <rect width="128" height="128" rx="28" fill="#1d9bf0"/>
+  <g fill="none" stroke="#ffffff" stroke-width="11">
+    <circle cx="52" cy="76" r="24"/>
+    <circle cx="76" cy="52" r="24"/>
+  </g>
+</svg>
